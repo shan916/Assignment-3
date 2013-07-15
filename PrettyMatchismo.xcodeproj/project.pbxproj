@@ -131,6 +131,7 @@
 				7478B31B1793876B0017390D /* Model */,
 				7478B379179388EE0017390D /* GameResult */,
 				7478B378179388D60017390D /* PlayingCardView */,
+				7478B37A17938DE10017390D /* Face Card Images */,
 				7478B2FF179387310017390D /* Supporting Files */,
 			);
 			path = PrettyMatchismo;
@@ -192,6 +193,13 @@
 				7478B34F179387F50017390D /* GameResultViewController.m */,
 			);
 			name = GameResult;
+			sourceTree = "<group>";
+		};
+		7478B37A17938DE10017390D /* Face Card Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Face Card Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
